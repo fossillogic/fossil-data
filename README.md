@@ -21,8 +21,6 @@ Fossil Data serves as a low-level core upon which higher-level analytics, AI, an
 - **Modular Architecture**  
   Designed as a reusable core for domain-specific sub-libraries such as machine learning, analytics pipelines, visualization backends, and AI systems within the Fossil Logic ecosystem.
 
-## Getting Started
-
 ## ***Prerequisites***
 
 To get started, ensure you have the following installed:

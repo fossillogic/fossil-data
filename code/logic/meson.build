@@ -9,6 +9,7 @@ fossil_data_lib = library('fossil_data',
         'series.c',
         'prob.c',
         'plot.c',
+        'tensor.c',
         'transform.c'
     ),
     install: true,

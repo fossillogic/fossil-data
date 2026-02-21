@@ -27,6 +27,7 @@
 
 // Include the necessary headers
 #include "transform.h"
+#include "tensor.h"
 #include "series.h"
 #include "plot.h"
 #include "prob.h"
